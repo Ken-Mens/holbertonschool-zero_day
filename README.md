@@ -25,7 +25,7 @@ How to work my way around Vagrant and basic usage.
 
 # 0x01 Emacs
 
-##Learning Objectives
+## Learning Objectives
 - What is Emacs
 - Who is Richard Stallman
 - How to open and save files
@@ -55,5 +55,5 @@ cutting an entire line, pasting a line, searching foward, undoing, and quitting 
 - How to undo
 - How to quit vi
 
-##Tasks
-Vi basic commands
+## Tasks
+Vi basic commands such as opening, closing, saving files.
